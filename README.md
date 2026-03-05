@@ -22,7 +22,7 @@
 ### 🧐 About Me
 
 - 🔭 I’m currently working on **[shop-project](https://github.com/Syntiox/shop-project)**
-- 🌱 I’m currently learning **Rust, Advanced Python & AI Development**
+- 🌱 I’m currently learning  Advanced Python & AI Development**
 - 🛡️ I’m interested in **Ethical Hacking & Cybersecurity**
 - 💬 Ask me about **Python, JavaScript, Node.js**
 - 📫 How to reach me: **ruk.zh4n@gmail.com**
