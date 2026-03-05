@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hey!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%27m%20Rukshan&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
-<h3 align="center">👨‍💻 Aspiring Software Engineer | AI Enthusiast | Cybersecurity Learner</h3>
+<h3 align="center">👨‍💻  Software Engineer | AI Enthusiast | Cybersecurity Learner</h3>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
