@@ -7,15 +7,15 @@
 
   <hr>
   <p>
-    <b>ruk-zh4n:</b> 
+    <b>:</b> 
     <a href="https://github.com/ruk-zh4n">
       <img src="https://github.com/ruk-zh4n.png" width="500" style="border-radius: 50%; vertical-align: middle;" alt="ruk-zh4n">
       ruk-zh4n
     </a>
     &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-    <b>Organization:</b> 
+    <b>:</b> 
     <a href="https://github.com/Syntiox">
-      <img src="https://github.com/Syntiox.png" width="35" style="border-radius: 6px; vertical-align: middle;" alt="Syntiox">
+      <img src="https://github.com/Syntiox.png" width="35" style="border-radius: 6px; vertical-align: middle;" alt="Organization">
       Syntiox
     </a>
   </p>
