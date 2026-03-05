@@ -14,7 +14,7 @@
 </p>
 <p>
   <a href="https://github.com/Syntiox">
-    <img src="https://github.com/Syntiox.png" width="35" style="border-radius: 6px; vertical-align: middle;" alt="Organization">
+    <img src="https://github.com/Syntiox.png" width="50" style="border-radius: 6px; vertical-align: middle;" alt="Organization">
     Syntiox
   </a>
 </p>
