@@ -8,13 +8,13 @@
 <hr>
 <p>
   <a href="https://github.com/ruk-zh4n">
-    <img src="https://github.com/ruk-zh4n.png" width="35" style="border-radius: 50%; vertical-align: middle;" alt="ruk-zh4n">
+    <img src="https://github.com/ruk-zh4n.png" width="350" style="border-radius: 50%; vertical-align: middle;" alt="ruk-zh4n">
   </a>
-
+i'm
 </p>
 <p>
   <a href="https://github.com/Syntiox">
-    <img src="https://github.com/Syntiox.png" width="35" style="border-radius: 6px; vertical-align: middle;" alt="Organization">
+    <img src="https://github.com/Syntiox.png" width="50" style="border-radius: 6px; vertical-align: middle;" alt="Organization">
   </a>
   Organization
 </p>
