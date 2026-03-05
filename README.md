@@ -5,9 +5,21 @@
 <h3 align="center">👨‍💻  Software Engineer | AI Enthusiast | Cybersecurity Learner</h3>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ruk-zh4n&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="ruk-zh4n" />
-  </a>
+  <hr>
+  <p>
+    <b>ruk-zh4n:</b> 
+    <a href="https://github.com/ruk-zh4n">
+      <img src="https://github.com/ruk-zh4n.png" width="150" style="border-radius: 50%; vertical-align: middle;" alt="ruk-zh4n">
+      ruk-zh4n
+    </a>
+    &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+    <b>Organization:</b> 
+    <a href="https://github.com/Syntiox">
+      <img src="https://github.com/Syntiox.png" width="35" style="border-radius: 6px; vertical-align: middle;" alt="Syntiox">
+      Syntiox
+    </a>
+  </p>
+  <hr>
 </div>
 
 <p align="center">
