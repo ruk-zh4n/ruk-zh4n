@@ -11,7 +11,6 @@
 </div>
 
 <p align="center">
-  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
   <a href="https://fb.com/malindu.rukshan.202519" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
   <a href="https://instagram.com/malindu2696" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
   <a href="mailto:ruk.zh4n@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
@@ -34,7 +33,6 @@
 **Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
@@ -80,10 +78,6 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruk-zh4n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="ruk-zh4n's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruk-zh4n&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langs" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruk-zh4n&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
