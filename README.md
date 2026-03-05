@@ -4,7 +4,7 @@
 
 <h3 align="center">👨‍💻  Software Engineer | AI Enthusiast | Cybersecurity Learner</h3>
 
-<div align="center">
+
   <hr>
   <p>
     <b>ruk-zh4n:</b> 
@@ -20,7 +20,7 @@
     </a>
   </p>
   <hr>
-</div>
+
 
 <p align="center">
   <a href="https://fb.com/malindu.rukshan.202519" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
