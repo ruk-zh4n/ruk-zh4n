@@ -9,7 +9,7 @@
   <p>
     <b>ruk-zh4n:</b> 
     <a href="https://github.com/ruk-zh4n">
-      <img src="https://github.com/ruk-zh4n.png" width="150" style="border-radius: 50%; vertical-align: middle;" alt="ruk-zh4n">
+      <img src="https://github.com/ruk-zh4n.png" width="250" style="border-radius: 50%; vertical-align: middle;" alt="ruk-zh4n">
       ruk-zh4n
     </a>
     &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
