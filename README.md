@@ -91,11 +91,7 @@ i'm
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruk-zh4n&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
+  <img src="https://readme-stats-psi-beryl.vercel.app/api?v=1" alt="Streak" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruk-zh4n&label=Profile%20Views&color=blue&style=flat-square" alt="ruk-zh4n" />
-</div>
