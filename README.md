@@ -4,6 +4,7 @@
 
 <h3 align="center">👨‍💻  Software Engineer | AI Enthusiast | Cybersecurity Learner</h3>
 
+![Views](https://komarev.com/ghpvc/?username=ruk-zh4n&color=blue&style=flat-square&label=%20ruk-zh4n+PROFILE+VIEWS)
 
 <hr>
 <p>
