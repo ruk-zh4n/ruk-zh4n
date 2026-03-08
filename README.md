@@ -6,6 +6,17 @@
 
 ![Views](https://komarev.com/ghpvc/?username=ruk-zh4n&color=blue&style=flat-square&label=%20ruk-zh4n+PROFILE+VIEWS)
 
+
+<br />
+
+
+  <a href="https://syntiox.github.io/Member/people/ruk-zh4n.html">
+    <img src="https://img.shields.io/badge/Visit_Site-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site" />
+  </a>
+
+
+<br />
+
 <hr>
 <p>
   <a href="https://github.com/ruk-zh4n">
