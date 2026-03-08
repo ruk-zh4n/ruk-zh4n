@@ -91,7 +91,7 @@ i'm
 
 
 <div align="center">
-  <img src="https://readme-stats-psi-beryl.vercel.app/api?v=1" alt="Streak" />
+  <a href="https://github.com/ruk-zh4n"> <img src="https://readme-stats-psi-beryl.vercel.app/api?v=1" alt="GitHub Stats" width="450" /> </a>
 </div>
 
 
