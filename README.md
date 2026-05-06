@@ -10,27 +10,13 @@
 <br />
 
 
-  <a href="https://syntiox.github.io/Member/people/ruk-zh4n.html">
+  <a href="https://ruk-zh4n.github.io/">
     <img src="https://img.shields.io/badge/Visit_Site-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site" />
   </a>
 
 
 <br />
 
-<hr>
-<p>
-  <a href="https://github.com/ruk-zh4n">
-    <img src="https://github.com/ruk-zh4n.png" width="350" style="border-radius: 50%; vertical-align: middle;" alt="ruk-zh4n">
-  </a>
-i'm
-</p>
-<p>
-  <a href="https://github.com/Syntiox">
-    <img src="https://github.com/Syntiox.png" width="50" style="border-radius: 6px; vertical-align: middle;" alt="Organization">
-  </a>
-  Organization
-</p>
-<hr>
 
 
 <p align="center">
